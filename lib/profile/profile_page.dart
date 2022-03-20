@@ -91,7 +91,7 @@ class _ProfilePageState extends State<ProfilePage> {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          'Interests',
+          'Skills',
           style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
         ),
         Wrap(
