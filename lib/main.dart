@@ -4,6 +4,7 @@ import 'dart:ui';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:pocketjob/profile/profile_page.dart';
+import 'package:pocketjob/search/search_widget.dart';
 
 void main() => runApp(MyApp());
 
@@ -35,7 +36,7 @@ class _MyNavigationBarState extends State<MyNavigationBar > {
   int _selectedIndex = 0;
   static List<Widget> _widgetOptions = <Widget>[
     Text('Home Page', style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold)),
-    Text('Search Page', style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold)),
+    SearchWidget(),
     ProfilePage()
   ];
 
