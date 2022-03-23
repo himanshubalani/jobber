@@ -1,7 +1,11 @@
 # jobber
 
-My Submission for PowerUp Hacks by MLH.
+My Submission for PowerUp Hacks by MLH. <br>
 This is just a showcase of the UI of the app. The app's data is currently immutable.
+
+ [![Devpost | Jobber](https://badges.devpost-shields.com/get-badge?name=Jobber&id=joblist&type=custom-color&style=for-the-badge)](https://devpost.com/software/joblist)  👈 **Click To Open in Devpost** <br>
+ 
+ 
 ## Requirements:
 - An Andriod Phone running **Android 6 or later**
 
